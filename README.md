@@ -1,3 +1,3 @@
-# Hermes Personal Assistant information
+# Application information
 
-Static public overview, privacy notice and use information for a private personal OAuth integration. No integration source, credentials or user data are included.
+Static application information, privacy notice and use information.
